@@ -1,0 +1,10 @@
+C:\Users\315\source\repos\Что-то для демо демо экзамена\bin\Debug\Что-то для демо демо экзамена.exe.config
+C:\Users\315\source\repos\Что-то для демо демо экзамена\bin\Debug\Что-то для демо демо экзамена.exe
+C:\Users\315\source\repos\Что-то для демо демо экзамена\bin\Debug\Что-то для демо демо экзамена.pdb
+C:\Users\315\source\repos\Что-то для демо демо экзамена\obj\Debug\Что-то для демо демо экзамена.csprojAssemblyReference.cache
+C:\Users\315\source\repos\Что-то для демо демо экзамена\obj\Debug\Что_то_для_демо_демо_экзамена.Form1.resources
+C:\Users\315\source\repos\Что-то для демо демо экзамена\obj\Debug\Что_то_для_демо_демо_экзамена.Properties.Resources.resources
+C:\Users\315\source\repos\Что-то для демо демо экзамена\obj\Debug\Что-то для демо демо экзамена.csproj.GenerateResource.cache
+C:\Users\315\source\repos\Что-то для демо демо экзамена\obj\Debug\Что-то для демо демо экзамена.csproj.CoreCompileInputs.cache
+C:\Users\315\source\repos\Что-то для демо демо экзамена\obj\Debug\Что-то для демо демо экзамена.exe
+C:\Users\315\source\repos\Что-то для демо демо экзамена\obj\Debug\Что-то для демо демо экзамена.pdb
